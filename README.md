@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paul 
 - 👀 I’m interested in web development and cloud engineering...
-- 🌱 I’m currently learning Javascript and Python ...
+- 🌱 I’m currently learning Javascript
 - 📫 How to reach me at paul.aboagye@outlook.com
 
 <!---
