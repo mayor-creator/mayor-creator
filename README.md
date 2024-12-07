@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paul 
 - 👀 I’m interested in mobile development and cloud engineering...
-- 🌱 I’m currently cloud computing
+- 🌱 I’m currently learning cloud computing
 - 📫 How to reach me at paul.aboagye@outlook.com
 
 <!---
